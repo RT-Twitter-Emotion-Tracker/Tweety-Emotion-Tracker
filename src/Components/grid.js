@@ -9,12 +9,6 @@ class Grid extends Component {
         <div class="container pl-10 pr-14 py-10 mx-auto">
         <Time />
             <div class="grid grid-cols-3 -m-8 md:grid-cols-4 lg:grid-cols-6">
-                {/*<div class="lg:w-1/3 sm:w-1/2 p-4> */}
-           <div class="lg:w-1/4 sm:w-1/3 p-4">
-                <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-pink-600 text-white font-semibold p-16" >#Worried</div>
-                </div>
-            </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
                 <div className="rounded-full h-24 w-24 flex items-center justify-center bg-pink-600 text-white font-semibold p-16" >#Happy</div>
