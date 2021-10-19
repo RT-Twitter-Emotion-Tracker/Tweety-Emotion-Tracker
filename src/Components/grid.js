@@ -10,33 +10,29 @@ class Grid extends Component {
         <Time />
             <div class="grid grid-cols-3 -m-8 md:grid-cols-4 lg:grid-cols-6">
                 {/*<div class="lg:w-1/3 sm:w-1/2 p-4> */}
-            <div class="lg:w-1/4 sm:w-1/3 p-4">
+           <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-green-400 p-16">
-                    <div className="text-white font-semibold opacity-100 hover:opacity-0">Hovered</div>
-                    <p className="text-white font-semibold opacity-0 hover:opacity-100">33</p>
-                </div>
-                {/*<div class="opacity-0 hover:opacity-100 duration-300 absolute inset-0 z-10 flex justify-center items-center text-xl text-white font-semibold">Dwayne</div>*/}
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-pink-600 text-white font-semibold p-16" >#Worried</div>
                 </div>
             </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-pink-600 text-white font-semibold p-16" >Hovered</div>
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-pink-600 text-white font-semibold p-16" >#Happy</div>
                 </div>
             </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-green-600 text-white  font-semibold p-16" >Hovered</div>
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-green-600 text-white  font-semibold p-16" >#Sad</div>
                 </div>
             </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-yellow-800 text-white  font-semibold p-16" >Hovered</div>
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-yellow-800 text-white  font-semibold p-16" >#Bored</div>
                 </div>
             </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-indigo-500 text-white  font-semibold p-16" >Hovered</div>
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-indigo-500 text-white  font-semibold p-16" >#Awesome</div>
                 {/*<div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                     <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
                     <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Holden Caulfield</h1>
@@ -46,42 +42,42 @@ class Grid extends Component {
             </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-purple-800 text-white  font-semibold p-16" >Hovered</div>
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-purple-800 text-white  font-semibold p-16" >#Delighted</div>
                 </div>
             </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-yellow-600 text-white  font-semibold p-16" >Hovered</div>
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-yellow-600 text-white  font-semibold p-16" >#Depressed</div>
                 </div>
             </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-pink-900 text-white  font-semibold p-16" >Hovered</div>
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-pink-900 text-white  font-semibold p-16" >#Jealous</div>
                 </div>
             </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-gray-400 text-white  font-semibold p-16" >Hovered</div>
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-gray-400 text-white  font-semibold p-16" >#Upset</div>
                 </div>
             </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-purple-500 text-white  font-semibold p-16" >Hovered</div>
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-purple-500 text-white  font-semibold p-16" >#Proud</div>
                 </div>
             </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-green-800 text-white  font-semibold p-16" >Hovered</div>
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-green-800 text-white  font-semibold p-16" >#Liked</div>
                 </div>
             </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-red-400 text-white  font-semibold p-16" >Hovered</div>
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-red-400 text-white  font-semibold p-16" >#Sweet</div>
                 </div>
             </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-indigo-500 text-white  font-semibold p-16" >Hovered</div>
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-indigo-500 text-white  font-semibold p-16" >#Relaxed</div>
                 {/*<div class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                     <h2 class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1">THE SUBTITLE</h2>
                     <h1 class="title-font text-lg font-medium text-gray-900 mb-3">Holden Caulfield</h1>
@@ -91,42 +87,42 @@ class Grid extends Component {
             </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-green-400 text-white  font-semibold p-16" >Hovered</div>
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-green-400 text-white  font-semibold p-16" >#Angry</div>
                 </div>
             </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-yellow-600 text-white  font-semibold p-16" >Hovered</div>
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-yellow-600 text-white  font-semibold p-16" >#Frustrated</div>
                 </div>
             </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-pink-400 text-white  font-semibold p-16" >Hovered</div>
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-pink-400 text-white  font-semibold p-16" >#Lonely</div>
                 </div>
             </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-pink-900 text-white  font-semibold p-16" >Hovered</div>
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-pink-900 text-white  font-semibold p-16" >#Sexy</div>
                 </div>
             </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-gray-400 text-white  font-semibold p-16" >Hovered</div>
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-gray-400 text-white  font-semibold p-16" >#Hurt</div>
                 </div>
             </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-purple-500 text-white  font-semibold p-16" >Hovered</div>
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-purple-500 text-white  font-semibold p-16" >#Blessed</div>
                 </div>
             </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-green-800 text-white  font-semibold p-16" >Hovered</div>
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-green-800 text-white  font-semibold p-16" >#Confused</div>
                 </div>
             </div>
             <div class="lg:w-1/4 sm:w-1/3 p-4">
                 <div class="flex relative">
-                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-red-400 text-white  font-semibold p-16" >Hovered</div>
+                <div className="rounded-full h-24 w-24 flex items-center justify-center bg-red-400 text-white  font-semibold p-16" >#Excited</div>
                 </div>
             </div>
             </div>
